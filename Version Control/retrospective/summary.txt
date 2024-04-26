@@ -1,0 +1,18 @@
+SOLVING MERGE CONFLICT
+
+The merge conflict between the two branches Test and Working was solved by first removing the three 
+merge conflict markers in the README.md file:
+- <<<<< HEAD (Current Change)
+- =====
+- >>>>> Test (Incoming Change)
+
+Because I wished to keep both changes, I left both the student id number and the git version number on separate lines.
+I then staged the resolved file using the `git add` command and committed it with the git commit command and a message 
+that the two changes are merged. I then pushed the merged Working branch to the remote repository.
+
+
+THE THREE CHANGES TO THREE HTML FILES IN THE WORKING BRANCH
+- The first change I made was to change the header in the index.html file from "Western Tech Hub" to "Eastern Tech Hub". I then staged and committed this change.
+- Next I corrected spelling errors in the team.html file, which I then staged and committed. 
+- Lastly I corrected spelling errors in the about.html file, which I also staged and committed. 
+After the three changes had been committed, I pushed the branch to the remote repo using the `git push origin` command. 

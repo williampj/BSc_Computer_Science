@@ -1,0 +1,48 @@
+commit 1193eab0597212554983eb118563df34a79981ca
+Merge: 9704ddd 345eedc
+Author: William Jackson <williampj@gmail.com>
+Date:   Sun Oct 15 13:45:50 2023 -0500
+
+    Merges git version and student id in README.md file
+
+commit 9704ddd19b029f5e8be5da1f00cb3ee7d0964191
+Author: William Jackson <williampj@gmail.com>
+Date:   Sun Oct 15 13:41:47 2023 -0500
+
+    Adds git version number to README.md file
+
+commit 345eedc95fddd457541c5ac80b17dc4dc8c99716
+Author: William Jackson <williampj@gmail.com>
+Date:   Sun Oct 15 13:36:05 2023 -0500
+
+    Adds Student ID to README.md file
+
+commit 5d19bcddc2a2abb3d123b8a8a80fcd3eae8ae429
+Author: William Jackson <williampj@gmail.com>
+Date:   Sun Oct 15 11:50:49 2023 -0500
+
+    Corrects spelling errors in about.html document
+
+commit 1b06afa961c2d7b02da8f82ef8bcbf7e5df48b4f
+Author: William Jackson <williampj@gmail.com>
+Date:   Sun Oct 15 11:48:39 2023 -0500
+
+    Corrects spelling errors in team.html file
+
+commit ab67c3e7561d283fd3726929c8b07152ef38788e
+Author: William Jackson <williampj@gmail.com>
+Date:   Sun Oct 15 11:43:19 2023 -0500
+
+    Changes header from "Western Tech Hub" to "Eastern Tech Hub"
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
